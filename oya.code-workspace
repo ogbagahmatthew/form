@@ -1,0 +1,77 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Users\\Mima Water\\Downloads\\handler-starter-web_Free18-02-2020_1442333199\\handler-starter"
+		},
+		{
+			"path": "..\\mima\\resources\\views"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\auth"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\confirm"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\Dashboard"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\director"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\expenses"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\feedback"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\include"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\jobs"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\layouts"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\mima tem"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\orders"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\Priviledge"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\product"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\sales"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\salesreport"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\staticpages"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\update"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\User"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\account"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\Admin"
+		},
+		{
+			"path": "..\\mima\\resources\\views\\Applicant"
+		}
+	],
+	"settings": {}
+}
